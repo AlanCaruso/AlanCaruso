@@ -7,9 +7,9 @@ Web Developer and Designer
 --------------------------
 
 I'm a front-end developer with 6 years of experience in building beautiful and functional user interfaces. My expertise includes HTML, CSS, JavaScript, and various front-end frameworks such as React and Vue.
---------------------------
+
 While I've primarily focused on front-end development in the past, I'm currently expanding my skill set to include back-end development as well. I'm excited to learn new technologies and frameworks like Node.js and Express, and I'm looking forward to building full-stack applications that provide a great user experience.
---------------------------
+
 In addition to my technical skills, I'm also a strong communicator and team player. I enjoy collaborating with designers, developers, and stakeholders to build products that exceed expectations. If you're interested in working together or learning more about my skills and experience, please feel free to reach out!
 
 * 🌍  I'm based in Argentina
