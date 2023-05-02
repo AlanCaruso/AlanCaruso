@@ -6,7 +6,7 @@ Hi 👋 My name is Alan Caruso
 Web Developer and Designer
 --------------------------
 
-I'm a front-end developer with 6 years of experience in building beautiful and functional user interfaces.
+I'm a front-end developer with 6 years of experience in building user interfaces.
 My expertise includes HTML, CSS, JavaScript, and various front-end frameworks such as React and Vue.
 
 While I've primarily focused on front-end development in the past, I'm currently expanding my skill set to include back-end development as well.
