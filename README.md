@@ -53,4 +53,4 @@ If you're interested in working together, please feel free to reach out!
 <b>My GitHub Stats</b>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlanCaruso&theme=tokyonight)](https://git.io/streak-stats)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanCaruso)](https://github.com/AlanCaruso/github-readme-stats)&html=ff2244&css=00000&scss=222222
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanCaruso&theme=radical)](https://github.com/AlanCaruso/github-readme-stats)
