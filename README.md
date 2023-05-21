@@ -16,7 +16,7 @@ If you're interested in working together, please feel free to reach out!
 
 * 🌍  I'm based in Argentina
 * 🖥️  See my portfolio at [http://sitestudio.online/me](http://sitestudio.online/me)
-* 🚀  I'm currently working on [Site Studio](http://sitestudio.online/)
+* 🚀  I'm currently working on [Site Studio](http://sitestudio.online)
 * 🧠  I'm learning Node.js - Javascript - React - Express 
 
 ### Skills
