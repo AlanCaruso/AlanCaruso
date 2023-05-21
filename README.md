@@ -15,8 +15,8 @@ I'm excited to learn new technologies and frameworks like Node.js and Express, a
 If you're interested in working together, please feel free to reach out!
 
 * 🌍  I'm based in Argentina
-* 🖥️  See my portfolio at [https://sitestudio.online/me](sitestudio.online/me)
-* 🚀  I'm currently working on [Site Studio](sitestudio.online/)
+* 🖥️  See my portfolio at [http://sitestudio.online/me](http://sitestudio.online/me)
+* 🚀  I'm currently working on [Site Studio](http://sitestudio.online/)
 * 🧠  I'm learning Node.js - Javascript - React - Express 
 
 ### Skills
