@@ -15,10 +15,9 @@ I'm excited to learn new technologies and frameworks like Node.js and Express, a
 If you're interested in working together, please feel free to reach out!
 
 * 🌍  I'm based in Argentina
-* 🖥️  See my portfolio at [https://alancaruso.github.io/](http://alancaruso.github.io/)
-* ✉️  You can contact me at [alan.carusoo@gmail.com](mailto:alan.carusoo@gmail.com)
-* 🚀  I'm currently working on [Javascript Brain School](http://alancaruso.github.io/)
-* 🧠  I'm learning Node.js - Javascript - React - Express
+* 🖥️  See my portfolio at [https://sitestudio.online/me](https://sitestudio.online/me)
+* 🚀  I'm currently working on [Site Studio](https://sitestudio.online/)
+* 🧠  I'm learning Node.js - Javascript - React - Express 
 
 ### Skills
 
