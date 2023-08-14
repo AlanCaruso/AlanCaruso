@@ -3,7 +3,7 @@
 Hi 👋 My name is Alan Caruso
 ============================
 
-Web Developer and Designer
+Software Engineer
 --------------------------
 
 Web Developer building user interfaces and server side rendering.<br/>
