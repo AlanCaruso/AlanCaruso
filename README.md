@@ -6,8 +6,8 @@ Hi 👋 My name is Alan Caruso
 Web Developer and Designer
 --------------------------
 
-Web Developer with experience in building user interfaces and server side rendering.
-My expertise includes HTML, CSS, JavaScript, and React.js.
+Web Developer building user interfaces and server side rendering.
+HTML, CSS, JavaScript, React.js, Node and Express.
 
 While I've primarily focused on front-end development, I'm currently expanding my skill set to include back-end development as well.
 Looking forward to building full-stack applications that provide a great user experience.
