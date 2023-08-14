@@ -6,18 +6,18 @@ Hi 👋 My name is Alan Caruso
 Software Engineer
 --------------------------
 
-Web Developer building user interfaces and server side rendering.<br/>
+Building user interfaces and server side rendering applications.<br/>
 HTML, CSS, JavaScript, React.js, Node and Express.
 
 While I've primarily focused on front-end development, I'm currently expanding my skill set to include back-end development as well.
 Looking forward to building full-stack applications that provide a great user experience.
 
-If you're interested in working together, please feel free to reach out!
+If you're interested in working together, please feel free to reach out.
 
-* 🌍  I'm based in Argentina
+* 🌍  based in Argentina
 * 🖥️  See my portfolio [Here](https://sitestudio.online/me/)
-* 🚀  I'm currently working on [Site Studio](https://sitestudio.online/)
-* 🧠  I'm learning Node.js - Javascript - React - Express 
+* 🚀  Currently working on [Site Studio](https://sitestudio.online/)
+* 🧠  Learning Node.js - Javascript - React - Express 
 
 ### Skills
 
