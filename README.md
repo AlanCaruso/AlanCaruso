@@ -15,8 +15,6 @@ Looking forward to building full-stack applications that provide a great user ex
 If you're interested in working together, please feel free to reach out.
 
 * 🌍  based in Argentina
-* 🖥️  See my portfolio [Here](https://sitestudio.online/me/)
-* 🚀  Currently working on [Site Studio](https://sitestudio.online/)
 * 🧠  Learning Node.js - Javascript - React - Express 
 
 ### Skills
