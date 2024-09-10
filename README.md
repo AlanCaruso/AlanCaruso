@@ -1,4 +1,4 @@
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://github.com/images/mona-whisper.gif" width="36" height="36" alt="Photoshop" /></a>
+<img src="https://github.com/images/mona-whisper.gif" width="36" height="36" />
 
 Hi 👋 My name is Alan Caruso
 ============================
