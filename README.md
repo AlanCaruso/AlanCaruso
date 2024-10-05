@@ -6,7 +6,8 @@ Hi 👋 My name is Alan Caruso
 Software Engineer
 --------------------------
 
-Building user interfaces and server side rendering applications.<br/><br/>
+Building user interfaces and server side rendering applications.<br/>
+
 Javascript - React<br/>
 Node.js - Express - MongoDB<br/>
 HTML - CSS<br/>
