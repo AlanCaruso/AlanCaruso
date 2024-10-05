@@ -1,6 +1,6 @@
 <img src="https://github.com/images/mona-whisper.gif" width="36" height="36" />
 
-Hi 👋 My name is Alan Caruso
+Hi 👋 my name is Alan Caruso
 ============================
 
 Software Engineer
