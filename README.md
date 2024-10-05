@@ -7,9 +7,9 @@ Software Engineer
 --------------------------
 
 Building user interfaces and server side rendering applications.<br/>
-Javascript - React
-Node.js - Express - MongoDB
-HTML - CSS
+Javascript - React<br/>
+Node.js - Express - MongoDB<br/>
+HTML - CSS<br/>
 
 While I've primarily focused on front-end development, I'm currently expanding my skill set to include back-end development as well.
 Looking forward to building full-stack applications that provide a great user experience.
