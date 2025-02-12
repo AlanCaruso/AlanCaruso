@@ -52,5 +52,5 @@ If you're interested in working together, please feel free to reach out.
 
 <b>My GitHub Stats</b>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AlanCaruso&theme=dark" alt="GitHub Streak" /></a><br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanCaruso&theme=radical)](https://github.com/AlanCaruso/github-readme-stats)
