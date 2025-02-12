@@ -17,7 +17,7 @@ Looking forward to building full-stack applications that provide a great user ex
 
 If you're interested in working together, please feel free to reach out.
 
-* 🌍  based in Argentina
+* 🌍  Based in Argentina
 * 🧠  Learning Node.js - Javascript - React - Express 
 
 ### Skills
@@ -52,5 +52,5 @@ If you're interested in working together, please feel free to reach out.
 
 <b>My GitHub Stats</b>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=alancaruso)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alancaruso" alt="GitHub Streak" /></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanCaruso&theme=radical)](https://github.com/AlanCaruso/github-readme-stats)
