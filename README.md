@@ -9,7 +9,7 @@ Software Engineer
 Building user interfaces and server side rendering applications.<br/>
 
 Javascript - React<br/>
-Unity - C#
+Unity - C# <br/>
 Node.js - Express - MongoDB<br/>
 HTML - CSS<br/>
 
